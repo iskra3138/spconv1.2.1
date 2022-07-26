@@ -12,6 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
+#include <iostream>
 #ifndef NMS_CPU_H
 #define NMS_CPU_H
 #include <pybind11/pybind11.h>
